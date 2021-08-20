@@ -7,4 +7,4 @@ __pycache__
 venv
 */*.egg-info
 
-RP2040-stubs
+rp2040-stubs
