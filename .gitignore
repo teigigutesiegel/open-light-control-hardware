@@ -8,3 +8,5 @@ venv
 */*.egg-info
 
 rp2040-stubs
+tests/
+PCBs/
